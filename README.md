@@ -10,7 +10,7 @@
 
 
 # Giải thích
-  1. Phần mềm này sử dụng thư viện `puppeteer`, một công cụ mạnh mẽ giúp kiểm soát trình duyệt Chromium thông qua Node.js. Puppeteer cho phép tự động hóa các tác vụ trình duyệt, từ việc điều khiển các sự kiện như nhấp chuột và nhập liệu đến việc chụp ảnh màn hình. Điều này tạo ra khả năng linh hoạt và tự động hóa mạnh mẽ.
+  1. Phần mềm này sử dụng thư viện `puppeteer` để có thể thao tác với Chromium và lấy link ảnh được tạo ra. Đây là một công cụ mạnh mẽ giúp kiểm soát trình duyệt Chromium thông qua Node.js. Puppeteer cho phép tự động hóa các tác vụ trình duyệt, từ việc điều khiển các sự kiện như nhấp chuột và nhập liệu đến việc chụp ảnh màn hình. Điều này tạo ra khả năng linh hoạt và tự động hóa mạnh mẽ.
   2. Sau khi sử dụng `puppeteer` để tương tác với trang web và lấy link của ảnh đã tạo, ứng dụng tiếp tục sử dụng thư viện `axios` để gửi yêu cầu đến đường dẫn nhận được.
   3. Cuối cùng, để lưu trữ ảnh thu được, phần mềm sử dụng thư viện `fs` để ghi ảnh vào thư mục `/destination/`. Điều này giúp tổ chức và quản lý ảnh một cách hiệu quả, tạo ra một bộ sưu tập tự động và liên tục.
 
