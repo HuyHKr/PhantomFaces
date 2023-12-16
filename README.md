@@ -5,6 +5,9 @@
 1. Đầu tiên, bạn cần [tải và cài đặt Node.js](https://nodejs.org/en/download) nếu chưa có.
 2. Sau đó, tại mã nguồn, hãy mở cửa sổ cmd và chạy lệnh `npm i` để cài đặt các gói phụ thuộc.
 3. Tiếp theo, vẫn tại cửa sổ cmd đó, chạy lệnh `node index.js` để khởi chạy ứng dụng.
+   ![image](https://github.com/HuyHKr/PhantomFaces/assets/148759236/59d6e084-4da5-4ead-8190-10638fabefdf)
+⚠️ Lưu ý: khi nhập, tắt tiếng việt. Ngoài ra, ứng dụng chỉ nhận input nếu nhập chính xác. Ví dụ giới tính mà nhập 'male_' thay vì 'male' thì chương trình sẽ bắt nhập lại
+
 
 # Giải thích
   1. Phần mềm này sử dụng thư viện `puppeteer`, một công cụ mạnh mẽ giúp kiểm soát trình duyệt Chromium thông qua Node.js. Puppeteer cho phép tự động hóa các tác vụ trình duyệt, từ việc điều khiển các sự kiện như nhấp chuột và nhập liệu đến việc chụp ảnh màn hình. Điều này tạo ra khả năng linh hoạt và tự động hóa mạnh mẽ.
