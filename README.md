@@ -6,7 +6,7 @@
 2. Sau đó, tại mã nguồn, hãy mở cửa sổ cmd và chạy lệnh `npm i` để cài đặt các gói phụ thuộc.
 3. Tiếp theo, vẫn tại cửa sổ cmd đó, chạy lệnh `node index.js` để khởi chạy ứng dụng.
    ![image](https://github.com/HuyHKr/PhantomFaces/assets/148759236/59d6e084-4da5-4ead-8190-10638fabefdf)
-⚠️ Lưu ý: khi nhập, tắt tiếng việt. Ngoài ra, ứng dụng chỉ nhận input nếu nhập chính xác. Ví dụ giới tính mà nhập 'male_' thay vì 'male' thì chương trình sẽ bắt nhập lại
+⚠️ Lưu ý: khi nhập, tắt tiếng việt. Ngoài ra, phần mềm chỉ nhận input nếu nhập chính xác. Ví dụ giới tính mà nhập 'male_' thay vì 'male' thì phần mềm sẽ bắt nhập lại
 
 
 # Giải thích
