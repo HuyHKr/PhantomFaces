@@ -17,4 +17,4 @@
 > # Tham khảo
 > Tham khảo từ cách làm của bạn  [Nông Đức Huy](https://github.com/DBCB11/Crawl_picture_project_1)
 > 
-> Tham khảo về thư viện `puppeteer` trên [Viblo_1](https://viblo.asia/p/nghich-ngom-voi-puppeteer-Qbq5Q3j4ZD8), [Viblo_2](https://viblo.asia/p/crawl-website-su-dung-nodejs-va-puppeteer-phan-1-L4x5xv2wZBM)
+> Tham khảo về thư viện `puppeteer`  [Viblo_1](https://viblo.asia/p/nghich-ngom-voi-puppeteer-Qbq5Q3j4ZD8), [Viblo_2](https://viblo.asia/p/crawl-website-su-dung-nodejs-va-puppeteer-phan-1-L4x5xv2wZBM)
